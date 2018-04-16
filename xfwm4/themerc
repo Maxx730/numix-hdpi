@@ -8,7 +8,7 @@
 active_text_color=#ffffff
 inactive_text_color=#888888
 button_offset=0
-button_spacing=1
+button_spacing=0
 show_app_icon=true
 full_width_title=true
 maximized_offset=0
